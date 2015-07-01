@@ -1,3 +1,4 @@
+#FR
 from astropy.io import fits
 from astropy import wcs
 from astropy.utils.console import ProgressBar, color_print
